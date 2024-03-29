@@ -44,7 +44,7 @@ function getFilterPrompt(filter, topic) {
 }
 
 // Set your OpenAI API key
-const apiKey = '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';
+const apiKey = [Enter you API Key];
 
 // Define the API endpoint
 const url = 'https://api.openai.com/v1/engines/text-davinci-003/completions';
